@@ -1,0 +1,26 @@
+{
+  "name": "step1",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.14",
+    "anticaptcha": "^2.0.3",
+    "csv-parse": "^4.16.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "jquery": "^3.6.0",
+    "puppeteer": "^10.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-adblocker": "^2.11.11",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.2.17",
+    "puppeteer-extra-plugin-stealth": "^2.7.8"
+  },
+  "devDependencies": {}
+}
